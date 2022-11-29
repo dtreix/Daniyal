@@ -51,7 +51,7 @@ ul, li {
 }
 
 .header {
-	background: url('..img/photo_205595.jpg') no-repeat center top / cover;
+	background: url('../img/photo_205595.jpg') no-repeat center top / cover;
 	padding-top: 57px;
 	color: #fff;
 	padding-bottom: 322px
